@@ -1,0 +1,11 @@
+E:\Courses_ITI\C#\Pac Man Game\bin\Debug\Pac Man Game.exe.config
+E:\Courses_ITI\C#\Pac Man Game\bin\Debug\Pac Man Game.exe
+E:\Courses_ITI\C#\Pac Man Game\bin\Debug\Pac Man Game.pdb
+E:\Courses_ITI\C#\Pac Man Game\obj\Debug\Pac Man Game.csproj.AssemblyReference.cache
+E:\Courses_ITI\C#\Pac Man Game\obj\Debug\Pac Man Game.csproj.SuggestedBindingRedirects.cache
+E:\Courses_ITI\C#\Pac Man Game\obj\Debug\Pac_Man_Game.Form1.resources
+E:\Courses_ITI\C#\Pac Man Game\obj\Debug\Pac_Man_Game.Properties.Resources.resources
+E:\Courses_ITI\C#\Pac Man Game\obj\Debug\Pac Man Game.csproj.GenerateResource.cache
+E:\Courses_ITI\C#\Pac Man Game\obj\Debug\Pac Man Game.csproj.CoreCompileInputs.cache
+E:\Courses_ITI\C#\Pac Man Game\obj\Debug\Pac Man Game.exe
+E:\Courses_ITI\C#\Pac Man Game\obj\Debug\Pac Man Game.pdb
