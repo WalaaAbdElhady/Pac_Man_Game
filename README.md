@@ -1,4 +1,4 @@
-# Pac_Man_Game
+# Pac Man Game
 In this game we will control Pac Man in 4 different directions. Up, down, left and right
 to collect all of the coins and not touch the ghosts or walls. If you do then the game is over.
 
